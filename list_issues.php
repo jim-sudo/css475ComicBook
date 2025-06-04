@@ -13,7 +13,7 @@ require_once 'config.inc.php';
 <h2>Issues</h2>
 
 <!-- Filter Form -->
-<form method="GET" action="list_products.php">
+<form method="GET" action="list_issues.php">
     <label for="title">Filter by Title:</label>
     <input type="text" name="title" id="title" placeholder="e.g., Batman">
 
